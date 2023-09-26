@@ -92,5 +92,5 @@ Insira um gif ou um link de alguma demonstração
 ## Screenshots
 
 Imagem mostrando o layout do Dashboard.
-https://github.com/thercior/Dash-Analise-Vendas/blob/d03ade5eb7081039883dc060e40161dd8c9aa8ea/assets/img/Captura%20de%20tela%202023-09-25%20202307.png
+https://raw.githubusercontent.com/thercior/Dash-Analise-Vendas/main/assets/img/Captura%20de%20tela%202023-09-25%20202307.png
 
