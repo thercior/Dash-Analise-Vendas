@@ -1,0 +1,14 @@
+/* Configurações principais */
+*{
+    box-sizing: border-box;
+}
+
+body {
+    height: 99vh;
+    background-size: 300% 300%;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
